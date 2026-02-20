@@ -30,13 +30,12 @@ I enjoy working on machine learning models, LLM pipelines, and backend systems, 
 ### Machine Learning / AI
 
 <p align="center">
-  <img title="PyTorch" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">
-  <img title="TensorFlow" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">
-  <img title="HuggingFace" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/hugging-face/hugging-face.png">
-  <img title="OpenCV" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">
-  <img title="NumPy" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">
-  <img title="Pandas" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
-  <img title="Scikit-Learn" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">
+  <img title="PyTorch" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img title="TensorFlow" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+  <img title="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img title="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img title="Scikit-Learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img title="OpenCV" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 </p>
 
 ---
@@ -44,11 +43,11 @@ I enjoy working on machine learning models, LLM pipelines, and backend systems, 
 ### LLM & AI Tooling
 
 <p align="center">
-  <img title="Transformers" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/transformers/transformers.png">
-  <img title="LangChain" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/langchain/langchain.png">
-  <img title="FAISS" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/faiss/faiss.png">
-  <img title="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-  <img title="GitHub Actions" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/github-actions/github-actions.png">
+  <img title="HuggingFace" width="50px" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
+  <img title="LangChain" width="50px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" />
+  <img title="FAISS" width="50px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />
+  <img title="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img title="GitHub Actions" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
 </p>
 
 ---
