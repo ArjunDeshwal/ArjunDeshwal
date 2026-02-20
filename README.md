@@ -48,15 +48,6 @@ I enjoy working on machine learning models, LLM pipelines, and backend systems, 
   <img title="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 </p>
 
-### Web & Backend
-
-<img title="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> |
-<img title="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"> |
-<img title="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png"> |
-<img title="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> |
-<img title="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|--|
-
 ---
 
 ## 🤝 Connect
