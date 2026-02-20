@@ -16,25 +16,37 @@ I enjoy working on machine learning models, LLM pipelines, and backend systems, 
 
 ### Programming Languages
 
-<img title="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" /> |
-<img title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> |
-<img title="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" /> |
-<img title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> |
-<img title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-|--|--|--|--|--|
+<p align="center">
+  <img title="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+  <img title="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img title="C" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
+  <img title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+  <img title="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
+</p>
 
 ---
 
 ### Machine Learning / Deep Learning
 
-<img title="PyTorch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"> |
-<img title="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"> |
-<img title="HuggingFace" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/hugging-face/hugging-face.png"> |
-<img title="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"> |
-<img title="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
-|--|--|--|--|--|
+<p align="center">
+  <img title="PyTorch" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">
+  <img title="TensorFlow" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">
+  <img title="HuggingFace" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/hugging-face/hugging-face.png">
+  <img title="NumPy" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">
+  <img title="Pandas" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
+</p>
 
 ---
+
+### Web & Backend
+
+<p align="center">
+  <img title="React" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
+  <img title="Next.js" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png">
+  <img title="FastAPI" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png">
+  <img title="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+  <img title="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+</p>
 
 ### Web & Backend
 
