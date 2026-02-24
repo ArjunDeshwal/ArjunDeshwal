@@ -8,7 +8,7 @@ Hi 👋 I'm Arjun Deshwal
 </p>
 
 I’m interested in building intelligent systems and scalable applications.  
-I enjoy working on machine learning models, LLM pipelines, and backend systems, while continuously exploring new technologies.
+I enjoy working on machine learning models, Local/Cloud LLM pipelines, and backend systems, while continuously exploring new technologies.
 
 ---
 
