@@ -88,7 +88,3 @@ I enjoy working on machine learning models, Local/Cloud LLM pipelines, and backe
 </a>
 
 ---
-
-<p align="center">
-  <i>Building. Learning. Improving.</i>
-</p>
