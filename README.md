@@ -3,13 +3,8 @@
 </div>
 
 <h1 align="center">
-Hi 👋 I'm Arjun Deshwal 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+Hi, I'm Arjun Deshwal
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Enthusiast;Building+LLM+Systems;Full+Stack+Developer;Always+Learning" />
-</p>
 
 I’m interested in building intelligent systems and scalable applications.  
 I enjoy working on machine learning models, Local/Cloud LLM pipelines, and backend systems, while continuously exploring new technologies.
