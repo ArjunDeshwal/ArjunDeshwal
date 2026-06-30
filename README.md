@@ -21,7 +21,6 @@ I enjoy working on machine learning models, Local/Cloud LLM pipelines, and backe
   <img title="C" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
   <img title="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
   <img title="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">
-  <img title="Rust" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png">
 </p>
 
 ---
@@ -69,7 +68,6 @@ I enjoy working on machine learning models, Local/Cloud LLM pipelines, and backe
   <img title="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
   <img title="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
   <img title="AWS" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">
-  <img title="Kubernetes" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png">
   <img title="Linux" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
 </p>
 
